@@ -9,7 +9,7 @@ This is a blog created in Django. It supports publishing posts, commenting, sear
    git@github.com:1murs/dj_blog.git
    cd <repository_name>
 
-2. Establish dependencies
+2. Establish dependencies:
     pip install -r requirements.txt
 
 3. Perform the migrations:
