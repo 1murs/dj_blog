@@ -18,7 +18,7 @@ This is a blog created in Django. It supports publishing posts, commenting, sear
 4. Start the development server:
     python manage.py runserver
 
-##Functionality
+## Functionality
 
 1. Publish posts
 2. Comments
