@@ -10,12 +10,15 @@ This is a blog created in Django. It supports publishing posts, commenting, sear
    cd <repository_name>
 
 2. Establish dependencies:
+   ```bash
     pip install -r requirements.txt
 
-3. Perform the migrations:
+4. Perform the migrations:
+   ```bash
     python manage.py migrate
 
-4. Start the development server:
+6. Start the development server:
+   ```bash
     python manage.py runserver
 
 ## Functionality
