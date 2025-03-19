@@ -18,8 +18,8 @@ This is a blog created in Django. It supports publishing posts, commenting, sear
 4. Start the development server:
     python manage.py runserver
 
-Functionality:
-    Publish posts
-    Comments
-    Search by posts
-    Send posts by email
+##Functionality:
+1. Publish posts
+2. Comments
+3. Search by posts
+4. Send posts by email
